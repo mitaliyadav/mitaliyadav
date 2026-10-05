@@ -1,6 +1,6 @@
 # Hi, I'm Mitali 👋
 
-**Data & AI engineer who builds ML and LLM systems that are tested and reproducible**
+**Data & AI engineer who builds ML and LLM systems that are tested, reproducible, and production-minded.**
 
 I have an M.S. in Computer Science (AI/ML) from UNC Charlotte and a B.S. in Data Science from UC Berkeley. Before moving into data and AI full time, I spent almost three years as a Software Test Engineer at Juniper Networks, where I learned to care about the things that make ML systems trustworthy: automated validation, CI/CD, root cause analysis, and reproducible results.
 
@@ -29,13 +29,9 @@ Most ML failures are quality failures: bad data, silent regressions, unreproduci
 Recommendation platform built on data for **27,000 movies and ratings from 170,000 users** (TMDB and GroupLens APIs). Random Forest and TensorFlow neural network models predict user ratings with an **MAE of 0.79**, with separate handling for users with more or fewer than 100 ratings.
 `Python` `TensorFlow` `Scikit-learn` `Random Forest` `Big Data`
 
-### 📈 [Shipping Prices Forecasting](https://github.com/mitaliyadav/REPO-NAME)
-XGBoost model forecasting price volatility, with time-series analysis across **690,000+ rows** to uncover seasonal trends. Achieved an **RMSE of ~2.29**. Includes interactive dashboards for non-technical stakeholders.
-`Python` `XGBoost` `Time Series` `Tableau` `Streamlit`
-
-### 🤖 [LLM Project Placeholder]
-<!-- TODO: add a public, non-confidential LLM/RAG project, ideally with an evaluation harness. See notes below. -->
-*Coming soon: an LLM/RAG application with an automated evaluation suite.*
+### 🤖 [CLI AI Coding Assistant](https://github.com/mitaliyadav/AI-Projects)
+Terminal-based autonomous coding assistant built on a **custom agentic loop** with human-in-the-loop tool approval. Connects to multiple **MCP servers** (filesystem, Context7, and a custom **RAG server** with semantic chunking over ChromaDB), and runs on Groq, OpenAI, or local Ollama models through one interface.
+`Python` `LangChain` `MCP` `RAG` `ChromaDB` `Ollama` `Typer` `Rich`
 
 ---
 
