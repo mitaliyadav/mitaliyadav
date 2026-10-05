@@ -1,6 +1,6 @@
 # Hi, I'm Mitali 👋
 
-**Data & AI engineer who builds ML and LLM systems that are tested, reproducible, and production-minded.**
+**Data & AI engineer who builds ML and LLM systems that are tested and reproducible**
 
 I have an M.S. in Computer Science (AI/ML) from UNC Charlotte and a B.S. in Data Science from UC Berkeley. Before moving into data and AI full time, I spent almost three years as a Software Test Engineer at Juniper Networks, where I learned to care about the things that make ML systems trustworthy: automated validation, CI/CD, root cause analysis, and reproducible results.
 
